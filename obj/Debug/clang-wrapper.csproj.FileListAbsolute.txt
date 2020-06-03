@@ -1,0 +1,7 @@
+C:\Users\rainx\source\repos\clang-wrapper\bin\Debug\clang-wrapper.exe.config
+C:\Users\rainx\source\repos\clang-wrapper\bin\Debug\clang-wrapper.exe
+C:\Users\rainx\source\repos\clang-wrapper\bin\Debug\clang-wrapper.pdb
+C:\Users\rainx\source\repos\clang-wrapper\obj\Debug\clang-wrapper.csprojAssemblyReference.cache
+C:\Users\rainx\source\repos\clang-wrapper\obj\Debug\clang-wrapper.csproj.CoreCompileInputs.cache
+C:\Users\rainx\source\repos\clang-wrapper\obj\Debug\clang-wrapper.exe
+C:\Users\rainx\source\repos\clang-wrapper\obj\Debug\clang-wrapper.pdb
